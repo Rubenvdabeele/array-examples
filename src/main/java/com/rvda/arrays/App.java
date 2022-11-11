@@ -16,12 +16,12 @@ public class App {
 
         
         // using Arrays!
-        //LoopExamples.loopExamples();
+        LoopExamples.loopExamples();
 
         // Arrays for handling user input!
         //ArrayExamples.fillArray();
 
-        //ArrayListExamples.arrayListExamples();
+        ArrayListExamples.arrayListExamples();
     }  
     
 
