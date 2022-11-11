@@ -69,12 +69,12 @@ public abstract class ArrayExamples {
 
         System.out.println(anotherArray.length);
 
-        System.out.println(anotherArray[4]);
+        System.out.println(anotherArray[3]);
 
         System.out.println(anotherArray[1]);
 
         anotherArray[1] = 6;
-        
+
         System.out.println(anotherArray[1]);
     }
 
